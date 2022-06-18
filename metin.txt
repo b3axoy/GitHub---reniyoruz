@@ -1,1 +1,4 @@
-Burak Aksoy
+Burak Aksoy, hoşgeldiniz.
+
+Bu eğitim içerisinde c# dili ile yazılım geliştirme üzerinde çalışılacaktır.
+
